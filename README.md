@@ -1,16 +1,37 @@
-# jekyll-simple
+## Welcome to GitHub Pages
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+You can use the [editor on GitHub](https://github.com/tinydanbo/tinydanbo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Supposedly, this could work with Japanese as well but never had a chance to try.
+### Markdown
 
-## Story behind this theme
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
+```markdown
+Syntax highlighted code block
 
-iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
+# Header 1
+## Header 2
+### Header 3
 
-So mobile goes first, then the macOS.
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tinydanbo/tinydanbo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
