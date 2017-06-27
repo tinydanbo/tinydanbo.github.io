@@ -5,12 +5,30 @@ body {
 
 h1, h2, h3 {
 	font-family: "Open Sans", sans-serif;
+	font-weight: bold;
+}
+
+h1 a, h2 a, h3 a {
+	color: #242424;
+}
+
+header {
+	border-bottom: 1px solid #232323;
+	font-family: "Open Sans", sans-serif;
+}
+
+.social-icons {
+	font-size: 4em;
+}
+
+.social-icons a {
+	color: #242424;
 }
 
 .post-image {
-	
+	margin: 24px;
 }
 
 .post-image img {
-	max-width: 360px;
+	max-width: 460px;
 }

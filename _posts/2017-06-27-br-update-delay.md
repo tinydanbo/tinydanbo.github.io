@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: Why'd replays take so long?
 ---
 
-We launched Blue Revolver on the 11th of October, 2016. At the time, I had promised full Steam leaderboards, replay support and achievements. Now, about 8 and a half months later, the update is now live and everything seems to be working fine.
+*We launched Blue Revolver on the 11th of October, 2016. At the time, I had promised full Steam leaderboards, replay support and achievements. Now, about 8 and a half months later, the update is now live and everything seems to be working fine. But that's a long time.*
 
 I'm not trying to write excuses here, the delay for players is inexcusable and the fault lies entirely with myself. But I'm writing this down to explain what happened and to share with other developers who might fall down the same hole.
 
@@ -20,7 +20,7 @@ The technical side was a little involved, but didn't require any massive rethink
 
 Of course, given the nature of replays, testing takes a pretty huge chunk of time, and it requires a thorough, investigatory mindset. It wasn't a simple task, but no way should it have taken 8 months. So what was the problem?
 
-### Impostor Syndrome
+### Impostor syndrome
 
 I am not the best player. I've collected an alright amount of 1CCs over the years, but I'm far, far from a superplayer. Compare with the developer of Crimzon Clover, aka Clover-TAC, who... [actually is](https://www.youtube.com/watch?v=5oPLlOFANtk). My internal rule for balancing the difficulty was "Mae/Power/Lancer, can beat Normal mode without thinking, can beat Hyper mode on a good day, can consistently beat chunks of Parallel mode but can't put it all together". Either way, it's been a long long time since I properly chased a score in a game, and I can't beat my own game at the highest difficulty. What authority do I have to be sitting here, designing a game for starry-eyed STG gods?
 
@@ -36,12 +36,14 @@ So I got depressed; fell into a pretty grim place for a long while, sat on my ha
 
 I was really nervous about shipping this update, to the point of being physically sick, very afraid that the response would be "too little, too late, game over". However, what I've seen has been very encouraging, and the Steam summer sale is doing alright for us so far. Not great, but alright. Right now, people may be breaking a lot of the carefully-designed bosses over their knee with the new toys we gave them, but I hope that for now they're at least playing the game with a smile on their face. (Or a really focused expression, I guess!)
 
-Really don't think I've made my peace with this yet. I still feel like people who like the game either simply don't understand the game/genre, or are choosing to paper over the very real and fundamental problems for some reason. There is still money on the table for updating/refining the game (Steam make sure to incentivise big updates with visibility), which is nice. But I'm pretty sure no amount of work I do to the game is going to make this feeling go away. Will need to recognise when it's time to stop.
+### Going forward
+
+Really don't think I've made my peace with this yet. I still feel like people who like the game either simply don't understand the game/genre, or are choosing to paper over the very real and fundamental problems for some reason. There is still money on the table for updating/refining the game (Steam make sure to incentivise big updates with visibility), which is nice. But I'm pretty sure no amount of work I do on the game is going to make this feeling go away. Will need to recognise when it's time to stop.
 
 Either way, I'm currently speccing out what we can do with Blue Revolver in the future. Any core game stuff to make the game more refined would have to come as part of a wholly comprehensive rebalance/rework package - a "black label", and not too soon, either. Nobody wants to play a STG that's constantly changing under them. But there's extra modes, features, etc to consider too, in the interim.
 
-Thanks for reading. Obligatory small teaser of something I've got sitting in my "experimental" branch:
+*If you've read this, I appreciate it. Like I said, I'm not trying to make excuses, just to explain what happened and maybe help other people in the same situation. Obligatory small teaser of something I've got sitting in my "experimental" branch:*
 
-<div class="post-image">
+<div class="post-image text-center">
 <a href="{{ site.url }}/images/br_gadgets.png"><img src="{{ site.url }}/images/br_gadgets.png" /></a>
 </div>
