@@ -1,2 +1,3 @@
 name: danbo.vg
 markdown: kramdown
+theme: jekyll-theme-cayman
