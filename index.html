@@ -2,13 +2,11 @@
 layout: default
 title: danbo.vg
 ---
-<h1>hi im danbo</h1>
-<p>Gameplay designer and programmer. Cofounder of <a href="http://stellarcirclegames.com">Stellar Circle</a>. I like STGs and Doom.</p>
 <h3>Posts:</h3>
 <ul>
 	{% for post in site.posts %}
 		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
+			<a href="{{ post.url }}">{{ post.date }}, {{ post.title }}</a>
 		</li>
 	{% endfor %}
 </ul>
@@ -21,6 +19,7 @@ title: danbo.vg
 <li><a href="https://danbo.itch.io/impoverished-starfighter">Impoverished Starfighter (Ludum Dare, 2013)</a></li>
 <li><a href="https://danbo.itch.io/john-carmacks-airshot-challenge">John Carmack's Airshot Challenge (7HFPS, 2013)</a></li>
 </ul>
+
 <h3>Other:</h3>
 <ul>
 <li><a href="http://blog.danbo.vg">Old blog. I used to be very angry.</a></li>
