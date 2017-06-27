@@ -4,6 +4,15 @@ title: danbo.vg
 ---
 <h1>hi im danbo</h1>
 <p>Gameplay designer and programmer. Cofounder of <a href="http://stellarcirclegames.com">Stellar Circle</a>. I like STGs and Doom.</p>
+<h3>Posts:</h3>
+<ul>
+	{% for post in site.posts %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endfor %}
+</ul>
+
 <h3>Projects:</h3>
 <ul>
 <li><a href="http://bluerevolvergame.com">BLUE REVOLVER (Commercial, 2016)</a></li>
