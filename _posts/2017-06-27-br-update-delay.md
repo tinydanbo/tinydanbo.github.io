@@ -42,4 +42,6 @@ Either way, I'm currently speccing out what we can do with Blue Revolver in the 
 
 Thanks for reading. Obligatory small teaser of something I've got sitting in my "experimental" branch:
 
-![Sidebar gadgets]({{ site.url }}/assets/br_gadgets.png)
+<div class="post-image">
+<a href="{{ site.url }}/images/br_gadgets.png"><img src="{{ site.url }}/images/br_gadgets.png" /></a>
+</div>
