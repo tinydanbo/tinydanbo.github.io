@@ -47,7 +47,7 @@ I'm not ignorant of times where a particular boss can represent a nasty spike in
 
 These types of approaches are nice because the designer can still make exceptions - no summons for the Asylum Demon, for example, ensuring you have at least the very basics of boss combat down - and they still try to use the opportunity to teach the player how to not have to do it again in the future. I could do some really tortured take on the "give a man a fish" routine here, but I'll spare you. I'm sure that if you're really hopelessly stuck on something, you won't mind the perhaps mild condescension of the game going "alright, here's how you could have done it" - and indeed, you might be pretty interested to see! The complete best case scenario, you go back and try to do it with your newfound knowledge, but if that doesn't happen, eh.
 
-On the other hand, an unconditional "skip this crap" button is something that I think suits only terrible games that never have anything worth teaching the player, and I see no reason to demand pallative care for a terminally bad video game.
+On the other hand, an unconditional "skip this crap" button is something that I think suits only terrible games that never have anything worth teaching the player, and I see no reason to demand palliative care for a terminally bad video game.
 
 If you have any followups/questions/etc, [curiouscat](https://curiouscat.me/tinydanbo) is this way, [twitter](https://twitter.com/__danbo)'s this way. For questions, I prefer the former. Thanks for reading.
 
