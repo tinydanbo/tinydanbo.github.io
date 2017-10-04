@@ -9,7 +9,7 @@ I have no qualms with the notion of accessibility. I made lots of decisions in [
 
 ### People hate boss fights
 
-I see a lot of people come out against the very idea of a boss fight, and it used to really confuse me. But it's pretty obvious in two respects: a boss fight represents two things:
+I see a lot of people come out against the very idea of a boss fight, and it used to really confuse me. But it's pretty obvious in two respects, a boss fight represents two things:
 
 * The pace of the game now belongs to the game, not the player. "Standard" gameplay allows the player to move around at their own pace. Boss fights demand the player move from action to reaction - to dance to that boss' particular tune, to understand that boss, or die trying.
 * A boss fight, by its nature, places emphasis on different types of tools. A boss that can be thoughtlessly out-DPSed to death is almost always a bad boss fight. This is why boss fights in FPS games are so often irritating - a boss fight places more emphasis on defensive tools and safe damage instead of big damage, and most FPS games don't give the player interesting defensive options or tools (even basic movement, the most fundamental defensive tool, is often a damn chore!)
@@ -32,7 +32,7 @@ I've just been talking about boss fights here, but this logic can work in many o
 
 In these examples, there would be negative value in offering up a skip button - players that skip these initial things because they don't understand them are immediately out of their depth, and may well just keep hammering that skip button until they've done the whole area without actually understanding anything. *"But why do you care if other people apparently ruin a game for theirselves?"* I'd hope I've put the words "Game Designer" on this page somewhere.
 
-Games in all sorts of genres regularly introduce new elements to the mix to keep things fresh, and at a base level ; "you can't progress until you understand this" isn't some archaic elitist element of videogames to be forgotten about, it is in fact one their biggest strengths. It is one of the most crucial ways to teach players things - indeed, to make the game accessible.
+Games in all sorts of genres regularly introduce new elements to the mix to keep things fresh, and at a base level ; "you can't progress until you understand this" isn't some archaic elitist element of videogames to be forgotten about, it is in fact one of their biggest strengths. It is one of the most crucial ways to teach players things - indeed, to make the game accessible.
 
 ### Solution?
 
