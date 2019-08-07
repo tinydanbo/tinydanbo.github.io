@@ -3,7 +3,9 @@ layout: post
 title: Steam exclusives
 ---
 
-Steam takes too much of my money. Every month, I see that big fat 30% revenue split go into the pockets of the company that ruined Team Fortress 2 and made the most overrated game of all time (Half-Life 2, fight me) and I can barely hold the tears back - tears that shall, truly, never hit them leather Bugatti seats at this rate. For small teams, that 30% could well be what keeps them going. For Valve, it is pure ivory backscratcher money. The news that they write off part of that split for games that make $10m or more is a damned slap in the face, too - if they can give the games that surely cost their infrastructure the most some nice mates' rates, that split is obviously completely illusory at this point, and has no relationship with Steam's infrastructure costs or the value it provides.
+*Steam takes too much of my money. Every month, I see that big fat 30% revenue split go into the pockets of the company that ruined Team Fortress 2 and made the most overrated game of all time (Half-Life 2, fight me) and I can barely hold the tears back - tears that shall, truly, never hit them leather Bugatti seats at this rate.* 
+
+For small teams, that 30% could well be what keeps them going. For Valve, it is pure ivory backscratcher money. The news that they write off part of that split for games that make $10m or more is a damned slap in the face, too - if they can give the games that surely cost their infrastructure the most some nice mates' rates, that split is obviously completely illusory at this point, and has no relationship with Steam's infrastructure costs or the value it provides.
 
 So I was pretty happy to hear news about the Epic Games Store's announcement. Steam's a monopoly, and as developers we have no way of even opening a conversation about this kind of thing with them. It ain't 2010 anymore, being on Steam is now simply the bare minimum expected as opposed to something that actively brings you the kind of audience you can feed yourself with.
 
