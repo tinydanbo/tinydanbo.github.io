@@ -15,7 +15,7 @@ One of the points that I see coming up is that storefront exclusivity, even time
 
 ### The List
 
-Here is, at rough estimation, a list of about 3,480 PC games exclusive to the Steam platform: [Link](list-of-steam-exclusives.html)
+Here is, at rough estimation, a list of about 3,480 PC games exclusive to the Steam platform: [Link](//danbo.vg/list-of-steam-exclusives.html)
 
 ### Methodology
 
@@ -27,7 +27,7 @@ This is obviously not a pinpoint accurate list, but I hope it expresses my point
 
 To some small degree, the backlash about EGS is justified[^1]. Being forced to use yet another launcher app is the bad shit, and we should be shooting for none of those, not more. But, if you have to have one, there must be multiple - welcome to capitalism, it sucks, please take a seat, yes we are aware that competition doesn't actually solve much, do you prefer Pepsi or Coke? Valve have very carefully cultivated the image of their platform as being synonymous with the PC; the default and forever option - and they've made sure just about everyone who plays games on PC is locked into their ecosystem as much as possible. This makes it a bit of a blind spot when people start to question/criticise how they buy and play games - if a game's exclusive to Steam, then whatever, who cares, Steam is the PC, and the PC is Steam. Your friends are on Steam. All the games you bought over the last 10-15 years are on Steam. Your saves are on Steam. Your game reviews are on Steam. Your streams are on Steam. Your mods are on Steam. Your forums are on Steam. You will report to Steam every July and December for your standard-issue 30% off deals on games you don't actually want but will buy anyway. I don't think this is a good thing even just now, but it only gets worse down the road - Valve have the popular image of being wholly stable and idly benevolent, but eventually they will either go bust or properly turn heel, and then we're all in big trouble.
 
-As a final note, I really dislike how small teams like the Ooblets folk are made to be the punching bag in this heavyweight bout between two massive storefronts. They bungled the hell out of their announcement, they posted cringe. Very unfortunate. Even smart, kind people can look like evil dipshits if they fuck up / overthink their PR. EGS really should provide some temporary community managers / PR staff to handle this sort of thing better. This is a fairly basic resource to provide that would curtail untold amounts of harassment and abuse -- nobody deserves [the shit that got slung](https://gist.github.com/tinydanbo/9a58e1affdba4ec390f7d5604c7f9f04). But I suspect EGS don't really care either - the big kerfuffle is publicity, after all. 
+As a final note, I really dislike how small teams like the Ooblets folk are made to be the punching bag in this heavyweight bout between two massive storefronts. They bungled the hell out of their announcement, they posted cringe. Very unfortunate. Even smart, kind people can look like evil dipshits if they fuck up / overthink their PR. EGS really should provide some temporary community managers / PR staff to handle this sort of thing better. This is a fairly basic resource to provide that would curtail untold amounts of harassment and abuse -- nobody deserves [the shit that got slung](https://medium.com/@perplamps/regarding-whats-been-happening-3af0f27d863c). But I suspect EGS don't really care either - the big kerfuffle is publicity, after all. 
 
 The gods will not save you. Stuff like itch.io might, though.
 
