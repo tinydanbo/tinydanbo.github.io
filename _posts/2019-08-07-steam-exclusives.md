@@ -11,17 +11,17 @@ I don't really have an interest in working with EGS (I'd prefer to work with few
 
 One of the points that I see coming up is that storefront exclusivity, even timed exclusivity, is really bad for the PC games market. I don't disagree. Therefore, I have had an attempt at compiling a rough list of PC games exclusive to Steam. What's really bizarre is that it seems there hasn't ever been too much of a contemporary stink about most of these games being exclusive to a locked-down DRM platform - hell, one that's no stranger to security issues and dodgy practices. I wonder why? Surely this is anti-consumer too? Is there something I'm missing here?
 
-## The List
+### The List
 
 Here is, at rough estimation, a list of about 3,480 PC games exclusive to the Steam platform: [Link](list-of-steam-exclusives.html)
 
-#### Methodology
+### Methodology
 
 I used the IsThereAnyDeal.com API - looking up all games on Steam, filtering out DLC and packages, as well as games with under 100 reviews (probably isn't fair but I wanted the list to be mostly games people might have heard of). Any game where all the "prices" the API shows are Steam-only gets in the list. This site seems to deal with every digital storefront I've heard of and tons more, and hell tons of those simply sell Steam keys, so if anything this list should be way bigger. The site naturally can't account for physical stores (and if they did, often you end up just buying a box with a Steam key inside) or direct sales via a game's homepage. Also, it seems like quite a few games have multiple seperate pages on ITAD. I don't know exactly how ITAD does its scraping, but it seems robust enough.
 
 This is obviously not a pinpoint accurate list, but I hope it expresses my point well enough. [Python script is here if you think I bungled it](https://gist.github.com/tinydanbo/9a58e1affdba4ec390f7d5604c7f9f04). I'm not a great programmer.
 
-#### Give me the damned point already you nerd
+### Give me the damned point already you nerd
 
 To some small degree, the backlash about EGS is justified[^1]. Being forced to use yet another launcher app is the bad shit, and we should be shooting for none of those, not more. But, if you have to have one, there must be multiple - welcome to capitalism, it sucks, please take a seat, yes we are aware that competition doesn't actually solve much, do you prefer Pepsi or Coke? Valve have very carefully cultivated the image of their platform as being synonymous with the PC; the default and forever option - and they've made sure just about everyone who plays games on PC is locked into their ecosystem as much as possible. This makes it a bit of a blind spot when people start to question/criticise how they buy and play games - if a game's exclusive to Steam, then whatever, who cares, Steam is the PC, and the PC is Steam. Your friends are on Steam. All the games you bought over the last 10-15 years are on Steam. Your saves are on Steam. Your game reviews are on Steam. Your streams are on Steam. Your mods are on Steam. Your forums are on Steam. You will report to Steam every July and December for your standard-issue 30% off deals on games you don't actually want but will buy anyway. I don't think this is a good thing even just now, but it only gets worse down the road - Valve have the popular image of being wholly stable and idly benevolent, but eventually they will either go bust or properly turn heel, and then we're all in big trouble.
 
@@ -29,7 +29,7 @@ As a final note, I really dislike how small teams like the Ooblets folk are made
 
 The gods will not save you. Stuff like itch.io might, though.
 
-#### BONUS
+### BONUS
 
 Here's a mystery screenshot of something I'm fucking about with. I've been wrestling with one real motherfucker of a black dog this year mentally - easily been the worst year of my life - and I'm truly sorry that Double Action is still delayed. I'm immensely grateful for everyone's patience - as the people close to me all know, I'm a paper cup filled with organic mercury; I fold under the slightest pressure, and I'm immensely poisonous when I do. 
 
