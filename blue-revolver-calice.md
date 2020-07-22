@@ -3,6 +3,10 @@ layout: default
 title: Blue Revolver Calice FAQ
 ---
 
+<div class="post-image text-center">
+<a href="{{ site.url }}/images/br_calice.jpg"><img src="{{ site.url }}/images/br_calice.jpg" /></a>
+</div>
+
 Since BLUE REVOLVER is one of the games on [Calice Cup Special 2020](https://calice.snowcrash.fun/tournaments/4), I thought I'd write a FAQ going over some gameplay intricacies. A great companion read from the perspective of a WR-paced player is [marus' system11 guide](https://shmups.system11.org/viewtopic.php?f=5&t=59055), so give that a look too. This is focused on small gameplay insights I can give as the programmer.
 
 ### What are the scoring fundamentals?
