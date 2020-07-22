@@ -46,7 +46,7 @@ Your lives are a resource to spend. Dying will grant two bombs (without discardi
 
 * All bullets in the game have a 2x2 collision box, the same size as your own hitbox. I aimed to tune the collision for such things as forgiving as it could possibly be without being completely ridiculous.
 * The stage 1 midboss doesn't actually move when it recoils from a wing being destroyed, the sprite is just offset from the collision data. This was to make it fairly easy to score the first Break bonus and feel like a king, but man I feel like a damn fraud every time I look at those hitboxes.
-* Mae-Laser is the most complicated special weapon in terms of weird mechanics. It grants the player additional item suction power, every enemy tracks whether the laser will pierce it, etc etc.
+* Mae-Laser is the most complicated special weapon in terms of weird mechanics. It grants the player additional item suction power, every enemy constantly tracks and worries about whether the laser will pierce it, etc etc.
 * It was truly and utterly intentional to not give the player basically any ammo during stages 3 and 5. I am unrepentant.
 * My favourite boss phase is boss 3's final phase, "OVERTIME". I am a big fan of gravity bullets and straight beams.
 * The names for boss phases VDM-86 and MDR-720 are derived from my poor understanding of French internet slang. VDM = fuck my life, MDR = dying of laughter.
