@@ -32,3 +32,11 @@ header {
 .post-image img {
 	max-width: 460px;
 }
+
+.big-post-image {
+	margin: 24px;
+}
+
+.big-post-image img {
+	max-width: 100%;
+}
