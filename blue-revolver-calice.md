@@ -3,7 +3,7 @@ layout: default
 title: Blue Revolver Calice FAQ
 ---
 
-<div class="post-image text-center">
+<div class="text-center">
 <a href="{{ site.url }}/images/br_calice.jpg"><img src="{{ site.url }}/images/br_calice.jpg" /></a>
 </div>
 
